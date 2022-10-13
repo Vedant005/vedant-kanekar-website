@@ -1,0 +1,11 @@
+# VEDANT'S WEBSITE
+This is a website created by me.
+
+# TECH STACK
+1) HTML
+2) JAVASCRIPT
+3) CSS
+
+# APP LIVE LINK
+
+# SCREENSHOT
