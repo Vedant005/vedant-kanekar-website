@@ -14,13 +14,12 @@ hr {
     margin: 2rem 0rem;
 }
 
-/** spaces **/
 
 .margin-md {
     margin: 2rem;
 }
 
-/** container **/
+
 .container {
     padding: 0rem 1rem;
 }
@@ -30,7 +29,7 @@ hr {
     margin: auto;
 }
 
-/** links **/
+
 .link {
     box-sizing: border-box;
     text-decoration: none;
@@ -43,7 +42,7 @@ hr {
     color: white;
     display: block;
     max-width: 140px;
-    margin: 1rem 1rem 1rem 0rem;
+    margin: auto;
     text-align: center;
 }
 
@@ -53,13 +52,12 @@ hr {
     border: 1px solid var(--primary-color);
     display: block;
     max-width: 140px;
-    margin: 1rem 1rem 1rem 0rem;
+    margin: auto;
     text-align: center;
 }
 
-/** look into BEM naming convention for CSS **/
 
-/** lists **/
+
 
 .list-non-bullet {
     list-style: none;
@@ -71,7 +69,7 @@ hr {
     padding: 0rem 0.5rem;
 }
 
-/** navigation **/
+
 
 .navigation {
     background-color: var(--primary-color);
@@ -96,7 +94,6 @@ hr {
     font-weight: bold;
 }
 
-/** header **/
 
 .programming {
     padding: 2rem;
@@ -122,7 +119,7 @@ hr {
     color: var(--primary-color);
 }
 
-/** sections **/
+
 
 .section {
     padding: 2rem;
@@ -134,10 +131,9 @@ hr {
 }
 
 .ow {
-    background-color: var(--off-white);
+    background-color:#7292d8;
 }
 
-/** footers **/
 
 .footer {
     background-color: var(--primary-color);
@@ -157,18 +153,24 @@ hr {
 }
 
 .footer ul {
-    padding-inline-start: 0px;
+    padding-inline-start: 1px;
 }
 
-/** projects **/
+
 .showcase-list {
     padding: 2rem;
+    background-color: #7292d8;
+    border-radius: 1rem;
+    margin-top: 1rem;
 }
 
-/** blogs **/
+
 .showcase-blog {
     padding-bottom: 6rem;
 }
 
 
+li{
+    text-align: center;
+}
 
